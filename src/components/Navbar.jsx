@@ -11,7 +11,7 @@ function classNames(...classes) {
 export default function Navbar() {
 
   const sendMessageWa = () => {
-    const phoneNumber = '6285201022226'; 
+    const phoneNumber = '6281329364866'; 
     const message = 'Halo, saya ingin konsultasi dengan ghany.'; 
     const whatsappURL = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
     window.open(whatsappURL, '_blank');
