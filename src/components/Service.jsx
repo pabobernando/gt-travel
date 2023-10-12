@@ -41,7 +41,7 @@ function Service() {
             Alamat
         </h3>
         <p className="py-4 text-gray-500 text-md ">
-        Jl. Ponco Wiryo, Gn. Gempal, Giri Peni, Kec. Wates, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55651
+        Jl. Ponco Wiryo, Gunung Gempal Rt 25/Rw 11 Giripeni, Kec. Wates, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55651
         </p>
     </div>
 </div>

@@ -17,7 +17,7 @@ function TableMotor() {
       prices: [
         { duration: '12 Jam', price: ' 100.000' },
         { duration: '24 Jam', price: ' 150.000' },
-        { duration: 'Mingguan', price: ' 700.000' },
+        { duration: 'Mingguan', price: ' 800.000' },
       ],
     },
     {
@@ -26,7 +26,7 @@ function TableMotor() {
       prices: [
         { duration: '12 Jam', price: ' 80.000' },
         { duration: '24 Jam', price: ' 100.000' },
-        { duration: 'Mingguan', price: ' 500.000' },
+        { duration: 'Mingguan', price: ' 600.000' },
       ],
     },
     {
@@ -35,14 +35,14 @@ function TableMotor() {
       prices: [
         { duration: '12 Jam', price: ' 100.000' },
         { duration: '24 Jam', price: ' 120.000' },
-        { duration: 'Mingguan', price: ' 600.000' },
+        { duration: 'Mingguan', price: ' 700.000' },
       ],
     },
     {
       name: 'Vario',
       image: Vario,
       prices: [
-        { duration: '12 Jam', price: ' 80.000' },
+        { duration: '12 Jam', price: ' 70.000' },
         { duration: '24 Jam', price: ' 100.000' },
         { duration: 'Mingguan', price: ' 500.000' },
       ],
@@ -51,7 +51,7 @@ function TableMotor() {
       name: 'Scoopy',
       image: Scoopy,
       prices: [
-        { duration: '12 Jam', price: ' 80.000' },
+        { duration: '12 Jam', price: ' 70.000' },
         { duration: '24 Jam', price: ' 100.000' },
         { duration: 'Mingguan', price: ' 500.000' },
       ],
@@ -69,9 +69,9 @@ function TableMotor() {
       name: 'Vespa Matic Sprint 150cc',
       image: Vespa,
       prices: [
-        { duration: '12 Jam', price: ' 150.000' },
-        { duration: '24 Jam', price: ' 200.000' },
-        { duration: 'Mingguan', price: ' 1.200.000' },
+        { duration: '12 Jam', price: ' 200.000' },
+        { duration: '24 Jam', price: ' 250.000' },
+        { duration: 'Mingguan', price: ' 1.500.000' },
       ],
     },
     {
@@ -86,7 +86,7 @@ function TableMotor() {
   ];
 
   return (
-    <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4'>
+    <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4'>
       {vehicles.map((vehicle, index) => (
         <div key={index} className="flex justify-center" >
           <div className="block rounded-lg p-2 shadow-sm shadow-blue-200 w-full sm:w-1/2 md:w-1/2">
