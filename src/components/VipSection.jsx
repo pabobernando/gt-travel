@@ -1,19 +1,17 @@
 import React from 'react';
-import Alphard from '../assets/alphard.jpg';
-import Agya from '../assets/agya.png';
-import Avanza from '../assets/avanza.png'
-import Brio from '../assets/brioKuning.png'
-import Inova from '../assets/inovaReborn.png'
-import AvanzaGrand from '../assets/avanzaGrand.png'
-import Hiace from '../assets/hiace.png'
-import HiaceL from '../assets/hiaceLong.png'
+import Alphard from '../assets/alphard1.png';
+import Camry from '../assets/camry1.png'
+import Pajero from '../assets/pajero1.png'
+import Fortuner from '../assets/fortuner1.png'
+
+
 
 function VipSection() {
 
     const vehicles = [
         {
           name: 'Alphard Transformer New',
-          image: Agya,
+          image: Alphard,
           prices: [
             { duration: 'Fullday', price: ' 3.500.000' },
             { duration: '12 Jam', price: ' 3.000.000' },
@@ -22,7 +20,7 @@ function VipSection() {
         },
         {
           name: 'Pajero Dakkar 4 x 2',
-          image: Brio,
+          image: Pajero,
           prices: [
             { duration: 'Fullday', price: ' 2.000.000' },
             { duration: '12 Jam', price: ' 1.800.000' },
@@ -31,7 +29,7 @@ function VipSection() {
         },
         {
           name: 'Toyota Fortuner Vrz',
-          image: AvanzaGrand,
+          image: Fortuner,
           prices: [
             { duration: 'Fullday', price: ' 2.000.000' },
             { duration: '12 Jam', price: ' 1.800.000' },
@@ -40,7 +38,7 @@ function VipSection() {
         },
         {
           name: 'Toyota Camry / Accord',
-          image: Avanza,
+          image: Camry,
           prices: [
             { duration: 'Fullday', price: '2.500.000' },
             { duration: '12 Jam', price: '2.000.000' },
