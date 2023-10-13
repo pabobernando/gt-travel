@@ -71,16 +71,6 @@ function TableOnkeyCar() {
       ],
     },
     {
-      name: 'Hiace Premio Luxury',
-      image: HiacePremio,
-      prices: [
-        
-        { duration: '12 Jam', price: '2.000.000' },
-        { duration: 'Fullday', price: '2.250.000' },
-        
-      ],
-    },
-    {
         name: 'Hiace Premio & Elf Long',
         image: HiaceL,
         prices: [
@@ -88,6 +78,16 @@ function TableOnkeyCar() {
           { duration: '12 Jam', price: '1.300.000' },
           { duration: 'Fullday', price: '1.500.000' },
          
+        ],
+      },
+      {
+        name: 'Hiace Premio Luxury',
+        image: HiacePremio,
+        prices: [
+          
+          { duration: '12 Jam', price: '2.000.000' },
+          { duration: 'Fullday', price: '2.250.000' },
+          
         ],
       },
   ];
