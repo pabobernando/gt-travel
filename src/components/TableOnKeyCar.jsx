@@ -7,6 +7,7 @@ import Inova from '../assets/inovaReborn.png'
 import AvanzaGrand from '../assets/avanzaGrand.png'
 import Hiace from '../assets/hiace.png'
 import HiaceL from '../assets/hiaceLong.png'
+import HiacePremio from '../assets/hiacepremio.png'
 
 function TableOnkeyCar() {
 
@@ -66,6 +67,16 @@ function TableOnkeyCar() {
         
         { duration: '12 Jam', price: '1.200.000' },
         { duration: 'Fullday', price: '1.300.000' },
+        
+      ],
+    },
+    {
+      name: 'Hiace Premio Luxury',
+      image: HiacePremio,
+      prices: [
+        
+        { duration: '12 Jam', price: '2.000.000' },
+        { duration: 'Fullday', price: '2.250.000' },
         
       ],
     },
