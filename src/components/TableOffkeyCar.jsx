@@ -69,13 +69,13 @@ function TableOffkeyCar() {
       name: 'Avanza New FWD MT',
       image: Avanza,
       prices: [
-        { duration: '12 Jam', price: ' 300.000' },
-        { duration: '24 Jam', price: ' 350.000' },
-        { duration: 'Fullday', price: ' 325.000' },
+        { duration: '12 Jam', price: ' 350.000' },
+        { duration: '24 Jam', price: ' 400.000' },
+        { duration: 'Fullday', price: ' 375.000' },
       ],
     },
     {
-      name: 'Inova Reborn Solar MT',
+      name: 'Innova Reborn Solar MT',
       image: Inova,
       prices: [
         { duration: '12 Jam', price: '-' },
@@ -84,7 +84,7 @@ function TableOffkeyCar() {
       ],
     },
     {
-      name: 'Inova Reborn Solar AT',
+      name: 'Innova Reborn Solar AT',
       image: Inova,
       prices: [
         { duration: '12 Jam', price: '-' },

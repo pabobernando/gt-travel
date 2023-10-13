@@ -41,18 +41,18 @@ export default function TableOffKey() {
     },
     {
       name: "Avanza New FWD Manual",
-      price12Hrs: "Rp. 300.000",
-      price24Hrs: "Rp. 350.000",
-      priceFullDay: "Rp. 325.000",
+      price12Hrs: "Rp. 350.000",
+      price24Hrs: "Rp. 400.000",
+      priceFullDay: "Rp. 375.000",
     },
     {
-      name: "Inova Reborn Solar Manual",
+      name: "Inonva Reborn Solar Manual",
       price12Hrs: "-",
       price24Hrs: "-",
       priceFullDay: "Rp. 500.000",
     },
     {
-      name: "Inova Reborn Solar Matic",
+      name: "Innova Reborn Solar Matic",
       price12Hrs: "-",
       price24Hrs: "-",
       priceFullDay: "Rp. 550.000",

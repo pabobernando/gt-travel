@@ -50,7 +50,7 @@ function TableOnkeyCar() {
       ],
     },
     {
-      name: 'Inova Reborn',
+      name: 'Innova Reborn',
       image: Inova,
       prices: [
         
