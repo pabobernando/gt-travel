@@ -69,6 +69,15 @@ function TableOffkeyCar() {
       name: 'Avanza New FWD MT',
       image: Avanza,
       prices: [
+        { duration: '12 Jam', price: ' 300.000' },
+        { duration: '24 Jam', price: ' 350.000' },
+        { duration: 'Fullday', price: ' 325.000' },
+      ],
+    },
+    {
+      name: 'Avanza New FWD AT',
+      image: Avanza,
+      prices: [
         { duration: '12 Jam', price: ' 350.000' },
         { duration: '24 Jam', price: ' 400.000' },
         { duration: 'Fullday', price: ' 375.000' },
