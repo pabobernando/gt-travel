@@ -51,7 +51,7 @@ function VipSection() {
     <div>
 <h1 className='text-center mt-5 font-bold text-3xl text-blue-500'>All In VVIP</h1>
 <div className="px-6 py-6 md:py-12 lg:py-16 xl:flex xl:items-center">
-<div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4'>
+<div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4'>
       {vehicles.map((vehicle, index) => (
         <div key={index} className="flex justify-center" >
           <div className="block rounded-lg p-2 shadow-sm shadow-blue-200 w-full sm:w-1/2 md:w-1/2">

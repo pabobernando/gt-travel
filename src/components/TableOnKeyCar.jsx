@@ -15,70 +15,68 @@ function TableOnkeyCar() {
       name: 'AGYA New',
       image: Agya,
       prices: [
-        { duration: '6 Jam', price: ' 400.000' },
         { duration: '12 Jam', price: ' 500.000' },
         { duration: 'Fullday', price: ' 600.000' },
-        { duration: 'Drop Out', price: ' 300.000' },
       ],
     },
     {
       name: 'Brio New',
       image: Brio,
       prices: [
-        { duration: '6 Jam', price: ' 400.000' },
+        
         { duration: '12 Jam', price: ' 500.000' },
         { duration: 'Fullday', price: ' 600.000' },
-        { duration: 'Drop Out', price: ' 300.000' }
+        
       ],
     },
     {
       name: 'Grand Avanza New',
       image: AvanzaGrand,
       prices: [
-        { duration: '6 Jam', price: ' 400.000' },
+        
         { duration: '12 Jam', price: ' 500.000' },
         { duration: 'Fullday', price: ' 600.000' },
-        { duration: 'Drop Out', price: ' 300.000' }
+        
       ],
     },
     {
       name: 'Avanza New FWD Manual',
       image: Avanza,
       prices: [
-        { duration: '6 Jam', price: '450.000' },
+        
         { duration: '12 Jam', price: '550.000' },
         { duration: 'Fullday', price: '650.000' },
-        { duration: 'Drop Out', price: '350.000' }
+        
       ],
     },
     {
       name: 'Inova Reborn',
       image: Inova,
       prices: [
-        { duration: '6 Jam', price: '550.000' },
+        
         { duration: '12 Jam', price: '700.000' },
         { duration: 'Fullday', price: '800.000' },
-        { duration: 'Drop Out', price: '450.000' }
+      
       ],
     },
     {
       name: 'Toyota Hiace Comuter',
       image: Hiace,
       prices: [
-        { duration: '6 Jam', price: '950.000' },
+        
         { duration: '12 Jam', price: '1.200.000' },
         { duration: 'Fullday', price: '1.300.000' },
-        { duration: 'Drop Out', price: '800.000' }
+        
       ],
     },
     {
         name: 'Hiace Premio & Elf Long',
         image: HiaceL,
         prices: [
-          { duration: '6 Jam', price: '1.100.000' },
+          
           { duration: '12 Jam', price: '1.300.000' },
           { duration: 'Fullday', price: '1.500.000' },
-          { duration: 'Drop Out', price: '900.000' }
+         
         ],
       },
   ];
