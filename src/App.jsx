@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     const script = document.createElement('script');
     script.async = true;
-    script.src = 'https://www.googletagmanager.com/gtag/js?id=AW-11410282362';
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=AW-11410340028';
     document.head.appendChild(script);
 
     script.onload = () => {
@@ -18,7 +18,7 @@ function App() {
         window.dataLayer.push(arguments);
       }
       gtag('js', new Date());
-      gtag('config', 'AW-11410282362');
+      gtag('config', 'AW-11410340028');
     };
 
     // Cleanup the script tag on component unmount
